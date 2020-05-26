@@ -1,6 +1,6 @@
 import React from 'react'
 
-export function Bar() {
+export function Bar(){
     return (
         <>
             
