@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+
 import * as NavBar from "./navBar";
 import * as Yumbotron from "./jumbo"
 
@@ -19,3 +20,4 @@ function App(){
 }
 
 ReactDOM.render(<App/>, document.getElementById("root"));
+
